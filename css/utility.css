@@ -1,0 +1,9 @@
+.flex{
+display: flex;
+align-items: center;
+align-content: center;
+
+}
+.border{
+    border: 1px solid red;
+}
